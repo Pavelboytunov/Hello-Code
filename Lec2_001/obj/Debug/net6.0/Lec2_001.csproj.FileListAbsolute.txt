@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Lec2_001\bin\Debug\net6.0\Lec2_001.exe
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Lec2_001\bin\Debug\net6.0\Lec2_001.deps.json
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Lec2_001\bin\Debug\net6.0\Lec2_001.runtimeconfig.json
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Lec2_001\bin\Debug\net6.0\Lec2_001.dll
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Lec2_001\bin\Debug\net6.0\ref\Lec2_001.dll
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Lec2_001\bin\Debug\net6.0\Lec2_001.pdb
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Lec2_001\obj\Debug\net6.0\Lec2_001.GlobalUsings.g.cs
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Lec2_001\obj\Debug\net6.0\Lec2_001.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Lec2_001\obj\Debug\net6.0\Lec2_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Lec2_001\obj\Debug\net6.0\Lec2_001.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Lec2_001\obj\Debug\net6.0\Lec2_001.AssemblyInfo.cs
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Lec2_001\obj\Debug\net6.0\Lec2_001.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Lec2_001\obj\Debug\net6.0\Lec2_001.dll
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Lec2_001\obj\Debug\net6.0\ref\Lec2_001.dll
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Lec2_001\obj\Debug\net6.0\Lec2_001.pdb
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Lec2_001\obj\Debug\net6.0\Lec2_001.genruntimeconfig.cache
