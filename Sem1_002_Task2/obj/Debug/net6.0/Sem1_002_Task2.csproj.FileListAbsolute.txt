@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Sem1_002_Task2\bin\Debug\net6.0\Sem1_002_Task2.exe
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Sem1_002_Task2\bin\Debug\net6.0\Sem1_002_Task2.deps.json
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Sem1_002_Task2\bin\Debug\net6.0\Sem1_002_Task2.runtimeconfig.json
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Sem1_002_Task2\bin\Debug\net6.0\Sem1_002_Task2.dll
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Sem1_002_Task2\bin\Debug\net6.0\ref\Sem1_002_Task2.dll
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Sem1_002_Task2\bin\Debug\net6.0\Sem1_002_Task2.pdb
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Sem1_002_Task2\obj\Debug\net6.0\Sem1_002_Task2.GlobalUsings.g.cs
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Sem1_002_Task2\obj\Debug\net6.0\Sem1_002_Task2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Sem1_002_Task2\obj\Debug\net6.0\Sem1_002_Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Sem1_002_Task2\obj\Debug\net6.0\Sem1_002_Task2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Sem1_002_Task2\obj\Debug\net6.0\Sem1_002_Task2.AssemblyInfo.cs
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Sem1_002_Task2\obj\Debug\net6.0\Sem1_002_Task2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Sem1_002_Task2\obj\Debug\net6.0\Sem1_002_Task2.dll
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Sem1_002_Task2\obj\Debug\net6.0\ref\Sem1_002_Task2.dll
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Sem1_002_Task2\obj\Debug\net6.0\Sem1_002_Task2.pdb
+C:\Users\User\Desktop\GB\С#\Lection1_Examples\Sem1_002_Task2\obj\Debug\net6.0\Sem1_002_Task2.genruntimeconfig.cache
